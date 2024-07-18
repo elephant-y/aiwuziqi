@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\86182\\Desktop\\\u7A0B\u5E8F\u8BBE\u8BA1\u5B9E\u8DF5\\\u667A\u80FD\u4E94\u5B50\u68CB\uFF08\u6700\u7EC8\u7248\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\86182\\Desktop\\\u7A0B\u5E8F\u8BBE\u8BA1\u5B9E\u8DF5\\\u667A\u80FD\u4E94\u5B50\u68CB\uFF08\u6700\u7EC8\u7248\uFF09\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\86182\\Desktop\\\u7A0B\u5E8F\u8BBE\u8BA1\u5B9E\u8DF5\\\u667A\u80FD\u4E94\u5B50\u68CB\uFF08\u6700\u7EC8\u7248\uFF09\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\86182\\Desktop\\\u7A0B\u5E8F\u8BBE\u8BA1\u5B9E\u8DF5\\\u667A\u80FD\u4E94\u5B50\u68CB\uFF08\u6700\u7EC8\u7248\uFF09\\Chess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chess.cpp",
+              "DocumentMoniker": "C:\\Users\\86182\\Desktop\\\u7A0B\u5E8F\u8BBE\u8BA1\u5B9E\u8DF5\\\u667A\u80FD\u4E94\u5B50\u68CB\uFF08\u6700\u7EC8\u7248\uFF09\\Chess.cpp",
+              "RelativeDocumentMoniker": "Chess.cpp",
+              "ToolTip": "C:\\Users\\86182\\Desktop\\\u7A0B\u5E8F\u8BBE\u8BA1\u5B9E\u8DF5\\\u667A\u80FD\u4E94\u5B50\u68CB\uFF08\u6700\u7EC8\u7248\uFF09\\Chess.cpp",
+              "RelativeToolTip": "Chess.cpp",
+              "ViewState": "AQIAAMAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T05:01:08.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chess.h",
+              "DocumentMoniker": "C:\\Users\\86182\\Desktop\\\u7A0B\u5E8F\u8BBE\u8BA1\u5B9E\u8DF5\\\u667A\u80FD\u4E94\u5B50\u68CB\uFF08\u6700\u7EC8\u7248\uFF09\\Chess.h",
+              "RelativeDocumentMoniker": "Chess.h",
+              "ToolTip": "C:\\Users\\86182\\Desktop\\\u7A0B\u5E8F\u8BBE\u8BA1\u5B9E\u8DF5\\\u667A\u80FD\u4E94\u5B50\u68CB\uFF08\u6700\u7EC8\u7248\uFF09\\Chess.h",
+              "RelativeToolTip": "Chess.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-18T05:01:06.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\Users\\86182\\Desktop\\\u7A0B\u5E8F\u8BBE\u8BA1\u5B9E\u8DF5\\\u667A\u80FD\u4E94\u5B50\u68CB\uFF08\u6700\u7EC8\u7248\uFF09\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u6E90.cpp",
+              "ToolTip": "C:\\Users\\86182\\Desktop\\\u7A0B\u5E8F\u8BBE\u8BA1\u5B9E\u8DF5\\\u667A\u80FD\u4E94\u5B50\u68CB\uFF08\u6700\u7EC8\u7248\uFF09\\\u6E90.cpp",
+              "RelativeToolTip": "\u6E90.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T11:33:10.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
